@@ -1,4 +1,4 @@
-# Aspose.Imaging Cloud for .NET Live Demos - My Test New
+# Aspose.Imaging Cloud for .NET Live Demos
 
 Aspose.Imaging Cloud for .NET Live Demos Source Code.
  
